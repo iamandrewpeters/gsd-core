@@ -28,7 +28,7 @@ If the prompt contains a `<required_reading>` block, you MUST use the `Read` too
 </role>
 
 <documentation_lookup>
-@~/.claude/gsd-core/references/research-documentation-lookup.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/research-documentation-lookup.md
 </documentation_lookup>
 
 <project_context>
@@ -207,7 +207,7 @@ Scan the output for suspicious patterns:
 
 ## Output: UI-SPEC.md
 
-Use template from `~/.claude/gsd-core/templates/UI-SPEC.md`.
+Use template from `${CLAUDE_PLUGIN_ROOT}/gsd-core/templates/UI-SPEC.md`.
 
 Write to: `$PHASE_DIR/$PADDED_PHASE-UI-SPEC.md`
 
@@ -266,7 +266,7 @@ Batch questions into a single interaction where possible.
 
 ## Step 5: Compile UI-SPEC.md
 
-Read template: `~/.claude/gsd-core/templates/UI-SPEC.md`
+Read template: `${CLAUDE_PLUGIN_ROOT}/gsd-core/templates/UI-SPEC.md`
 
 Fill all sections. Write to `$PHASE_DIR/$PADDED_PHASE-UI-SPEC.md`.
 

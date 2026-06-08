@@ -32,9 +32,9 @@ Mode routing:
 </routing>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/settings.md
-@~/.claude/gsd-core/workflows/settings-advanced.md
-@~/.claude/gsd-core/workflows/settings-integrations.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/settings.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/settings-advanced.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/settings-integrations.md
 </execution_context>
 
 <context>

@@ -18,7 +18,7 @@ Spawned by `discuss-phase` via `Task()`. You do NOT present output directly to t
 </role>
 
 <documentation_lookup>
-@~/.claude/gsd-core/references/research-documentation-lookup.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/research-documentation-lookup.md
 </documentation_lookup>
 
 <input>

@@ -21,7 +21,7 @@ and optionally applies labels or closes non-compliant submissions.
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/inbox.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/inbox.md
 </execution_context>
 
 <context>

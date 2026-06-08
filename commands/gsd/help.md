@@ -16,7 +16,7 @@ Output ONLY the reference content of the chosen tier. Do NOT add:
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/help.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/help.md
 </execution_context>
 
 <context>
@@ -24,5 +24,5 @@ Arguments: $ARGUMENTS
 </context>
 
 <process>
-Follow ~/.claude/gsd-core/workflows/help.md with $ARGUMENTS.
+Follow ${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/help.md with $ARGUMENTS.
 </process>

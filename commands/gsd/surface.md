@@ -150,6 +150,6 @@ All paths can be overridden by reading the `CLAUDE_CONFIG_DIR` env var if set.
 Surface state file: `~/.claude/.gsd-surface.json`
 Install profile marker: `~/.claude/.gsd-profile`
 Skill dirs: `~/.claude/skills/gsd-*/`
-Engine module: `~/.claude/gsd-core/bin/lib/surface.cjs`
-Cluster definitions: `~/.claude/gsd-core/bin/lib/clusters.cjs`
+Engine module: `${CLAUDE_PLUGIN_ROOT}/gsd-core/bin/lib/surface.cjs`
+Cluster definitions: `${CLAUDE_PLUGIN_ROOT}/gsd-core/bin/lib/clusters.cjs`
 </execution_context>

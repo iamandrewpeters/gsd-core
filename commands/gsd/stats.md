@@ -12,7 +12,7 @@ Display comprehensive project statistics including phase progress, plan executio
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/stats.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/stats.md
 </execution_context>
 
 <process>

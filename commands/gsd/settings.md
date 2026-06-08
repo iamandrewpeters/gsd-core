@@ -21,7 +21,7 @@ Routes to the settings workflow which handles:
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/settings.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/settings.md
 </execution_context>
 
 <process>

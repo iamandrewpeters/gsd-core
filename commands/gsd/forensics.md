@@ -20,7 +20,7 @@ Output: Forensic report saved to `.planning/forensics/`, presented inline, with 
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/forensics.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/forensics.md
 </execution_context>
 
 <context>

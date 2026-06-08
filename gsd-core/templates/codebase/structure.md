@@ -216,7 +216,7 @@ gsd-core/
 
 **New Workflow:**
 - Implementation: `gsd-core/workflows/{name}.md`
-- Usage: Reference from command with `@~/.claude/gsd-core/workflows/{name}.md`
+- Usage: Reference from command with `@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/{name}.md`
 
 **New Reference Document:**
 - Implementation: `gsd-core/references/{name}.md`

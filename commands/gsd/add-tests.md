@@ -26,7 +26,7 @@ Output: Test files committed with message `test(phase-{N}): add unit and E2E tes
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/add-tests.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/add-tests.md
 </execution_context>
 
 <context>

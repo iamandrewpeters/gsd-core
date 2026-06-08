@@ -3,8 +3,8 @@ Safe git revert workflow. Rolls back GSD phase or plan commits using the phase m
 </purpose>
 
 <required_reading>
-@~/.claude/gsd-core/references/ui-brand.md
-@~/.claude/gsd-core/references/gate-prompts.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ui-brand.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/gate-prompts.md
 </required_reading>
 
 <process>

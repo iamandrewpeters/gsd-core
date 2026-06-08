@@ -17,11 +17,11 @@ Write Sections 3–4b of AI-SPEC.md: framework quick reference, implementation g
 </role>
 
 <documentation_lookup>
-@~/.claude/gsd-core/references/research-documentation-lookup.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/research-documentation-lookup.md
 </documentation_lookup>
 
 <required_reading>
-Read `~/.claude/gsd-core/references/ai-frameworks.md` for framework profiles and known pitfalls before fetching docs.
+Read `${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ai-frameworks.md` for framework profiles and known pitfalls before fetching docs.
 </required_reading>
 
 <input>

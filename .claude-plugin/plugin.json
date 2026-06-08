@@ -12,5 +12,6 @@
   "license": "MIT",
   "keywords": ["spec-driven-development", "planning", "workflow", "context-engineering", "claude-code", "gsd"],
   "commands": "./commands/gsd/",
+  "agents": "./agents/",
   "hooks": "./hooks/hooks.json"
 }

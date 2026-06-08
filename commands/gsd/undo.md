@@ -21,9 +21,9 @@ Three modes:
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/undo.md
-@~/.claude/gsd-core/references/ui-brand.md
-@~/.claude/gsd-core/references/gate-prompts.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/undo.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ui-brand.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/gate-prompts.md
 </execution_context>
 
 <context>

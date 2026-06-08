@@ -18,7 +18,7 @@ changes that are irrelevant to code review.
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/pr-branch.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/pr-branch.md
 </execution_context>
 
 <process>

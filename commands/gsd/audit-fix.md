@@ -26,7 +26,7 @@ Flags:
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/audit-fix.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/audit-fix.md
 </execution_context>
 
 <process>

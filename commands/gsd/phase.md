@@ -31,10 +31,10 @@ Mode routing:
 </routing>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/add-phase.md
-@~/.claude/gsd-core/workflows/insert-phase.md
-@~/.claude/gsd-core/workflows/remove-phase.md
-@~/.claude/gsd-core/workflows/edit-phase.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/add-phase.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/insert-phase.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/remove-phase.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/edit-phase.md
 </execution_context>
 
 <context>

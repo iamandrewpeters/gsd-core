@@ -23,7 +23,7 @@ Output: updated SECURITY.md.
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/secure-phase.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/secure-phase.md
 </execution_context>
 
 <context>
