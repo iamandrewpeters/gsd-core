@@ -23,7 +23,7 @@ you could describe in one sentence and execute in under 2 minutes.
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/fast.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/fast.md
 </execution_context>
 
 <process>

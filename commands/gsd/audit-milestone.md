@@ -18,7 +18,7 @@ Verify milestone achieved its definition of done. Check requirements coverage, c
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/audit-milestone.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/audit-milestone.md
 </execution_context>
 
 <context>

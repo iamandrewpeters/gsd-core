@@ -21,8 +21,8 @@ Output: {phase_num}-UAT.md tracking all test results. If issues found: diagnosed
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/verify-work.md
-@~/.claude/gsd-core/templates/UAT.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/verify-work.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/templates/UAT.md
 </execution_context>
 
 <context>

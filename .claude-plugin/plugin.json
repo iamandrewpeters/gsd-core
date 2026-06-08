@@ -11,6 +11,5 @@
   "repository": "https://github.com/open-gsd/gsd-core",
   "license": "MIT",
   "keywords": ["spec-driven-development", "planning", "workflow", "context-engineering", "claude-code", "gsd"],
-  "commands": "./commands/gsd/",
-  "hooks": "./hooks/hooks.json"
+  "commands": "./commands/gsd/"
 }

@@ -22,7 +22,7 @@ Routes to the resume-project workflow which handles:
   </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/resume-project.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/resume-project.md
 </execution_context>
 
 <process>

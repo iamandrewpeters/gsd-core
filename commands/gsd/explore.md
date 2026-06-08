@@ -19,7 +19,7 @@ Accepts an optional topic argument: `/gsd:explore authentication strategy`
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/explore.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/explore.md
 </execution_context>
 
 <process>

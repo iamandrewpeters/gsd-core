@@ -31,7 +31,7 @@ Output: {padded_phase}-REVIEW.md in phase directory + inline summary of findings
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/code-review.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/code-review.md
 </execution_context>
 
 <context>

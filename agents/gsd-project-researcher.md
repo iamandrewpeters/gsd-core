@@ -33,11 +33,11 @@ Your files feed the roadmap:
 </role>
 
 <documentation_lookup>
-@~/.claude/gsd-core/references/research-documentation-lookup.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/research-documentation-lookup.md
 </documentation_lookup>
 
 <philosophy>
-@~/.claude/gsd-core/references/research-philosophy.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/research-philosophy.md
 </philosophy>
 
 <research_modes>
@@ -140,7 +140,7 @@ Returns `HIGH`, `MEDIUM`, or `LOW`. Use that value when tagging claims and when 
 </source_hierarchy>
 
 <verification_protocol>
-@~/.claude/gsd-core/references/research-verification-protocol.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/research-verification-protocol.md
 </verification_protocol>
 
 <output_formats>

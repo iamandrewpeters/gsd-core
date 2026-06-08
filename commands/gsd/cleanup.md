@@ -15,7 +15,7 @@ Use when `.planning/phases/` has accumulated directories from past milestones.
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/cleanup.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/cleanup.md
 </execution_context>
 
 <process>

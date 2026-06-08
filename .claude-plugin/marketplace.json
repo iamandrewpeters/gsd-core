@@ -1,0 +1,15 @@
+{
+  "name": "gsd-core",
+  "description": "Self-contained GSD Core — spec-driven development system, engine bundled for plugin-root resolution (works in Claude Code and Cowork).",
+  "owner": {
+    "name": "iamandrewpeters",
+    "url": "https://github.com/iamandrewpeters"
+  },
+  "plugins": [
+    {
+      "name": "gsd-core",
+      "source": "./",
+      "description": "GSD Core: meta-prompting, context engineering, and spec-driven development for AI coding agents."
+    }
+  ]
+}

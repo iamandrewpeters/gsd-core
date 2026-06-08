@@ -26,8 +26,8 @@ Designed for power users who want to parallelize work across phases from one ter
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/manager.md
-@~/.claude/gsd-core/references/ui-brand.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/manager.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ui-brand.md
 </execution_context>
 
 <context>
@@ -38,7 +38,7 @@ Project context, phase list, dependencies, and recommendations are resolved insi
 
 <process>
 If `--analyze-deps` is in $ARGUMENTS:
-Read and execute `~/.claude/gsd-core/workflows/analyze-dependencies.md` end-to-end.
+Read and execute `${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/analyze-dependencies.md` end-to-end.
 
 Execute end-to-end.
 Maintain the dashboard refresh loop until the user exits or all phases complete.

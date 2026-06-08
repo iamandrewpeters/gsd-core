@@ -30,13 +30,13 @@ Does not require prior new-project setup — auto-creates `.planning/sketches/` 
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/sketch.md
-@~/.claude/gsd-core/workflows/sketch-wrap-up.md
-@~/.claude/gsd-core/references/ui-brand.md
-@~/.claude/gsd-core/references/sketch-theme-system.md
-@~/.claude/gsd-core/references/sketch-interactivity.md
-@~/.claude/gsd-core/references/sketch-tooling.md
-@~/.claude/gsd-core/references/sketch-variant-patterns.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/sketch.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/sketch-wrap-up.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ui-brand.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/sketch-theme-system.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/sketch-interactivity.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/sketch-tooling.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/sketch-variant-patterns.md
 </execution_context>
 
 <runtime_note>

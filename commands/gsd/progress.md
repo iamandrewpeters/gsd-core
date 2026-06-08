@@ -31,10 +31,10 @@ Three modes:
 </flags>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/progress.md
-@~/.claude/gsd-core/workflows/next.md
-@~/.claude/gsd-core/workflows/do.md
-@~/.claude/gsd-core/references/ui-brand.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/progress.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/next.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/do.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ui-brand.md
 </execution_context>
 
 <process>

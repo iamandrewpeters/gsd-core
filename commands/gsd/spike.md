@@ -30,9 +30,9 @@ Does not require prior new-project setup — auto-creates `.planning/spikes/` if
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/spike.md
-@~/.claude/gsd-core/workflows/spike-wrap-up.md
-@~/.claude/gsd-core/references/ui-brand.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/spike.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/spike-wrap-up.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ui-brand.md
 </execution_context>
 
 <runtime_note>

@@ -22,7 +22,7 @@ Validate `.planning/` directory integrity and report actionable issues. Checks f
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/health.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/health.md
 </execution_context>
 
 <process>

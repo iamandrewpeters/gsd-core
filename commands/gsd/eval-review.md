@@ -19,8 +19,8 @@ Produces EVAL-REVIEW.md with score, verdict, gaps, and remediation plan.
 </objective>
 
 <execution_context>
-@~/.claude/gsd-core/workflows/eval-review.md
-@~/.claude/gsd-core/references/ai-evals.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/workflows/eval-review.md
+@${CLAUDE_PLUGIN_ROOT}/gsd-core/references/ai-evals.md
 </execution_context>
 
 <context>
